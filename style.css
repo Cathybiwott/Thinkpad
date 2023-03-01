@@ -1,0 +1,85 @@
+.navbar{
+    padding-right: 30px;
+    padding-left: 35px;
+    padding-top: 0px;
+    display: flex;
+    align-items: center;
+    margin-top: -80px;
+    justify-content: space-evenly;
+}
+h3{
+    font-size: 30px;
+    padding-left: 15px;
+    margin-left: 10%;
+}
+.navbar ul li{
+    display: inline-flex;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.navbar ul li a{
+    text-transform: inherit;
+    color:black;
+}
+.navbar button{
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+.button{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    border: 2px;
+    
+}
+#button2{
+    background-color: black;
+    color: white;
+    padding: 8px;
+}
+.content h4{
+    margin: 30px auto;
+    font-weight: 300px;
+    color:black;
+    font-style: normal;
+    font-size: 70px;
+    text-align: justify;
+    margin-left: 10%;
+
+
+}
+.content p{
+    color: black;
+    font-size: 15px;
+    font-style: normal;
+    padding-top:40px ;
+    margin-left: 10px;
+}
+#lan2{
+    float: right;
+    width: 650px;
+    height: 400px;
+    margin-right: 10%;
+}
+#fun2{
+    float: left;
+    width: 450px;
+    height:400px ;
+    margin-right: 10%;
+}
+#tan{
+    float: right;
+    width: 650px;
+    height: 400px;
+    margin-right: 10%;
+}
+#tax{
+    float: left;
+    width: 450px;
+    height:400px ;
+    margin-right: 10%;
+}
+
+
