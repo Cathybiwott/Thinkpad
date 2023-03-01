@@ -27,6 +27,9 @@ h3{
     color: white;
     padding: 8px;
 }
+body{
+    margin: 35px 0px 0px 100px;
+}
 .button{
     color: black;
     text-align: center;
@@ -34,21 +37,39 @@ h3{
     border: 2px;
     
 }
+.G1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+    
+}
 #button2{
     background-color: black;
     color: white;
-    padding: 8px;
 }
-.content h4{
+#button3{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 0px;
+    font-size: 20px;
+}
+.content h2{
     margin: 30px auto;
     font-weight: 300px;
     color:black;
     font-style: normal;
-    font-size: 70px;
+    font-size: 100px;
     text-align: justify;
     margin-left: 10%;
 
 
+}
+#first{
+    font-size: 60px;
+    margin-left: 10%;
+}
+.content{
+    display: flex;
 }
 .content p{
     color: black;
@@ -71,15 +92,21 @@ h3{
 }
 #tan{
     float: right;
-    width: 650px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin-right: 10%;
 }
 #tax{
     float: left;
-    width: 450px;
-    height:400px ;
+    width: 300px;
+    height:300px ;
     margin-right: 10%;
+}
+.content3{
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    margin: 0% 40% 10% 33%;
 }
 
 
