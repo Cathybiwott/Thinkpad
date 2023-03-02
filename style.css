@@ -37,6 +37,24 @@ body{
     border: 2px;
     
 }
+.img2{
+    display: flex;
+    width:300px; 
+
+}
+
+#pic{
+    padding: 5px;
+}
+#aled{
+    width: 800px;
+    height: 600px;
+}
+.tin{
+    margin-top: -10%;
+    margin-top: 5%;
+    font-size: 20px;
+}
 .G1{
     display: flex;
     justify-content: space-evenly;
@@ -107,6 +125,14 @@ body{
     display: flex;
     align-items: center;
     margin: 0% 40% 10% 33%;
+}
+#annoy{
+    font-weight: bold;
+
+}
+.fun{
+    display: flex;
+    justify-content: space-between;
 }
 
 
